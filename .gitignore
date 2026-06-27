@@ -1,0 +1,28 @@
+# Secrets & environment
+.env
+
+# Database files (auto-generated at runtime)
+kirana_store.db
+*.db
+
+# Competition assets & local screenshots
+for_posting/
+
+# Local library installs
+lib/
+
+# Claude Code workspace
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Images used for posting (not codebase)
+fundamentals.png
+cypher_fundamentals.png
