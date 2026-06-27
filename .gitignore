@@ -26,3 +26,7 @@ __pycache__/
 # Images used for posting (not codebase)
 fundamentals.png
 cypher_fundamentals.png
+
+
+Pipfile
+Pipfile.lock
